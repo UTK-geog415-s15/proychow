@@ -1,0 +1,7 @@
+I am Pranab Roy Chowdhury, I started with my graduate studies in Energy Science and Engineering at the Bredesen Center for Interdisciplinary Research and Graduate Education, the University of Tennessee, Knoxville.
+
+I completed my Bachelor's in Geography from Presidency College, University of Calcutta, India. I completed Master's in Geography specializing in Advanced Cartography and Geoinformatics from the same institution. By this time, I was really interested to learn more about Remote Sensing. Thus, I went on to do a Master of Technology degree from Indian Institute of Remote Sensing, India, the training arm of Indian Space Research Organization. Here, I specialized in Urban and Regional Planning applications. My research at this stage involved development of population estimation models, monitoring of past and simulation  of future urban growth in my study area.
+
+Through a campus recruitment drive, I was selected to work as a Scientist by Government of India. I worked there for nearly 3 years before deciding to focus on higher studies again.
+
+This is my short introduction and I am glad to be here in the GEOG 415 class. I hope to learn valuable analysis methods from this class which I will be able to use in my thesis work, where I tentatively plan to study the interlink between population and energy through using Geographic data driven methodologies and spatial analysis.
